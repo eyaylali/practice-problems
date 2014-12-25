@@ -12,3 +12,4 @@ end
 
 puts is_prime?(3)
 puts is_prime?(4)
+puts is_prime?(15)
